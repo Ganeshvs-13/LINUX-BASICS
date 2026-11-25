@@ -1,5 +1,2 @@
 # LINUX-BASICS
-LINUX IS A OS
-
-
-
+LINUX IS A Oas
