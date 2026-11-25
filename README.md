@@ -3,6 +3,3 @@ LINUX IS A OS
 
 
 
-
-
-
